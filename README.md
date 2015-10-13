@@ -8,20 +8,20 @@ Git Hub URLs: <br/>
 6. http://satishborkar.github.io/cssPerspective/ <br/>
 7. http://satishborkar.github.io/books-apps/ <br/>
 8. https://github.com/satishborkar/jquery.fcGallery-1.0.0
-<br/>
+<br/><br/>
 .Net Projects<br/>
 http://www.focusarch.com/<br/>
 http://www.programmingfordesigners.com/ <br/>
 http://www.alliedlocksafe.com/<br/>
 http://www.dencity.us/<br/>
-<br/>
+<br/> <br/>
 PHP Projects<br/>
 http://limerickcitycampus.com/<br/>
 http://www.horwichcarpets.co.uk <br/>
 http://www.gracefulseniors.com/<br/>
 http://www.vintagebits.co.uk/<br/>
 http://www.australiacruisereservations.com<br/>
-<br/>
+<br/><br/>
 WordPress Projects<br/>
 http://www.vintagebits.co.uk/<br/>
 http://jamielumley.siteproof.info/<br/>
@@ -32,7 +32,7 @@ http://valenciagroup.co.in/blog/	<br/>
 http://deploture.com/blog/<br/>
 http://rahuldambale.com/blog/<br/>
 http://www.lucero-surfretreats.com/<br/>
-<br/>
+<br/><br/>
 Joomla Projects<br/>
 http://www.deploture.com/<br/>
 http://www.deccancorporation.com/<br/>
@@ -44,18 +44,18 @@ http://www.rahuldambale.com/<br/>
 http://www.bhaktapariwar.com/<br/>
 http://www.maheshdadalandge.com/<br/>
 http://www.priyankaproperties.com/<br/>
-<br/>
+<br/> <br/>
 E- Commerce Projects
 <br/>
 http://www.diabetesmyfriend.com/ <br/>
 http://www.go4laptop.com/catalog/ <br/>
 http://www.avon.co.in/ <br/>
 http://menakaprakashan.com/ <br/>
-
+<br/>
 HTML Projects <br/>
 
 http://www.valenciagroup.co.in/ <br/>
-http;//www.easyjet.com/ <br/>
+http://www.easyjet.com/ <br/>
 http://www.oemeurope.co.uk/  <br/>
 http://www.conleydentistry.com/ <br/>
 http://www.phadnisgroup.com/ <br/>
