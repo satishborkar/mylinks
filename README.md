@@ -1,17 +1,19 @@
 # gitHubUrls
-Git Hub URLs: <br/>
-http://satishborkar.github.io/btc-coint/ <br/>
+R & D Examples : <br/>
 http://satishborkar.github.io/css-filters/<br/>
 http://satishborkar.github.io/rnds/<br/>
 http://satishborkar.github.io/color-factory/<br/>
 http://satishborkar.github.io/text-effects/<br/>
 http://satishborkar.github.io/image-captions/<br/>
-http://satishborkar.github.io/ryan-group/ <br/>
 http://satishborkar.github.io/cssPerspective/ <br/>
-http://satishborkar.github.io/books-apps/ <br/>
 https://github.com/satishborkar/jquery.fcGallery-1.0.0 <br/>
 http://satishborkar.github.io/modal-popups/<br/>
 http://satishborkar.github.io/css-filter-example/<br/>
+
+Static Sites : <br/>
+http://satishborkar.github.io/btc-coint/ <br/>
+http://satishborkar.github.io/ryan-group/ <br/>
+http://satishborkar.github.io/books-apps/ <br/>
 http://satishborkar.github.io/ToEngageMarketing/ <br/>
 
 <br/><br/>
