@@ -1,19 +1,18 @@
 # gitHubUrls
 Git Hub URLs: <br/>
-1. http://satishborkar.github.io/btc-coint/ <br/>
-2. http://satishborkar.github.io/css-filters/<br/>
-3. http://satishborkar.github.io/ToEngageMarketing/ <br/>
-4. http://satishborkar.github.io/books-apps/ <br/>
-5. http://satishborkar.github.io/rnds/<br/>
-6. http://satishborkar.github.io/color-factory/<br/>
-7. http://satishborkar.github.io/text-effects/<br/>
-8. http://satishborkar.github.io/image-captions/<br/>
-9. http://satishborkar.github.io/ryan-group/ <br/>
-10. http://satishborkar.github.io/cssPerspective/ <br/>
-11. http://satishborkar.github.io/books-apps/ <br/>
-12. https://github.com/satishborkar/jquery.fcGallery-1.0.0 <br/>
-13. http://satishborkar.github.io/modal-popups/<br/>
-14.http://satishborkar.github.io/css-filter-example/<br/>
+http://satishborkar.github.io/btc-coint/ <br/>
+http://satishborkar.github.io/css-filters/<br/>
+http://satishborkar.github.io/rnds/<br/>
+http://satishborkar.github.io/color-factory/<br/>
+http://satishborkar.github.io/text-effects/<br/>
+http://satishborkar.github.io/image-captions/<br/>
+http://satishborkar.github.io/ryan-group/ <br/>
+http://satishborkar.github.io/cssPerspective/ <br/>
+http://satishborkar.github.io/books-apps/ <br/>
+https://github.com/satishborkar/jquery.fcGallery-1.0.0 <br/>
+http://satishborkar.github.io/modal-popups/<br/>
+http://satishborkar.github.io/css-filter-example/<br/>
+http://satishborkar.github.io/ToEngageMarketing/ <br/>
 
 <br/><br/>
 .Net Projects<br/>
