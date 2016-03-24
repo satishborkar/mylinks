@@ -10,12 +10,6 @@ https://github.com/satishborkar/jquery.fcGallery-1.0.0 <br/>
 http://satishborkar.github.io/modal-popups/<br/>
 http://satishborkar.github.io/css-filter-example/<br/>
 
-Static Sites : <br/>
-http://satishborkar.github.io/btc-coint/ <br/>
-http://satishborkar.github.io/ryan-group/ <br/>
-http://satishborkar.github.io/books-apps/ <br/>
-http://satishborkar.github.io/ToEngageMarketing/ <br/>
-
 <br/><br/>
 .Net Projects<br/>
 http://www.focusarch.com/<br/>
@@ -58,7 +52,6 @@ E- Commerce Projects
 http://www.diabetesmyfriend.com/ <br/>
 http://www.go4laptop.com/catalog/ <br/>
 http://www.avon.co.in/ <br/>
-http://menakaprakashan.com/ <br/>
 <br/>
 HTML Projects <br/>
 
